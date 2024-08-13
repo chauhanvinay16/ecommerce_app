@@ -1,0 +1,1 @@
+const spashScreenImage="assets/logo.png";
